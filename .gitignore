@@ -1,7 +1,8 @@
 # Logs
 *.log
 npm-debug.log*
-
+.idea
+.idea/
 # Runtime data
 *.pid
 .tmp
@@ -9,7 +10,7 @@ npm-debug.log*
 ###############
 .DS_Store
 node_modules
-#dist
+dist
 
 ##push server
 #/*
